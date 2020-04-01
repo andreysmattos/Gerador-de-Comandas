@@ -1,0 +1,20 @@
+{
+  "name": "comandas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder ./src --config ./electron-builder.json"
+  },
+  "devDependencies": {
+    "electron": "^8.2.0",
+    "electron-builder": "^22.4.1"
+  },
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "jspdf": "^1.5.3",
+    "pdfkit": "^0.11.0"
+  }
+}

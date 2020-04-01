@@ -1,0 +1,13 @@
+{
+  "productName": "Comandas",
+  "win": {
+    "target": [
+      "nsis"
+    ]
+  },
+  "linux": {
+    "target": [
+      "appImage"
+    ]
+  }
+}
