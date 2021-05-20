@@ -13,7 +13,7 @@
     "electron-builder": "^22.4.1"
   },
   "dependencies": {
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "jspdf": "^1.5.3",
     "pdfkit": "^0.11.0"
   }
